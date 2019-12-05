@@ -1,16 +1,21 @@
-# topcoins
+# CoinTop - Flutter app
+For a long time I wanted to make mobile apps.
+I started studying last week. Now I ready to present you **my first mobile app on Flutter**.
+It's called **CoinTop** and used for getting cryptocurrencies statistics. 
+Here you can easy see the most popular coin, his symbol, price and how price changed last hour.
 
-A new Flutter project.
 
 ## Getting Started
+You can download Android version as apk file [here](https://drive.google.com/file/d/1GVxbnJiRF6hInHuwNbYMnjYq-fgq90rg/view)
 
-This project is a starting point for a Flutter application.
+Flutter installation (*Your Flutter must be ready*):
+1. Clone or download this git repository:
+  	`git clone https://github.com/PandaDEVoper/cointop.git`
+2. Install all packages: 
+    `flutter pub get`
+3. Run flutter:
+    `flutter run`
+4. Or Build it in apk: 
+    'flutter build appbundle'
+    
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
